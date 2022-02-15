@@ -1,0 +1,39 @@
+<html>
+    <head> 
+        <title>월세 예측하기</title> 
+        <meta charset="utf-8"> 
+    </head>
+
+
+    <body bgcolor=#FFFFFF>
+
+        <center>
+        
+        <br>
+        <h1 style="font-family: 'Nanum Gothic', sans-serif; font-size:300%;"> 나의 월세 예측하기 </h1><br>
+
+        <img src='static/main1.jpg' width="500px" height="220px" alt="twitter">
+
+
+        <br><br>
+
+        <p style="font-family: 'Nanum Gothic', sans-serif; font-size:115%; line-height:2;">
+           독립을 고민하는 당신! <br>
+           원하는 조건의 <strong>오피스텔 예상 월세</strong>를 확인해보세요</p>
+
+        <br><br>
+
+        <form method="GET", action="{{url_for('make_prediction')}}">
+           <b style="font-family: 'Nanum Gothic', sans-serif;"> 
+            구 :  <input type="text", name='district', placeholder="강남구"> <br><br>
+            평수 :  <input type="text", name='space', placeholder="7"> <br><br>
+            계약기간 : <input type="number" name='term' min="0" max="4"> <br><br>
+            건축년도 : <input type="text", name='condstruction', placeholder="2020"> <br><br><br></b>
+            <input style="font-family: 'Nanum Gothic', sans-serif;", type="submit" , value='예측해보기!'>
+        </form>
+
+        
+    </center>
+
+    </body>
+</html>
