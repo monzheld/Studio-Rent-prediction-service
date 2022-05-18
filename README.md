@@ -8,7 +8,7 @@
 
 <br>
 
-
+![스크린샷 2022-05-19 00 02 19](https://user-images.githubusercontent.com/93971420/169073955-c68e3094-cd8c-4e3e-adc5-91e749f933af.png)
 
 <br>
 
@@ -39,11 +39,13 @@
 
 ## 데이터 파이프라인 
 
+![스크린샷 2022-05-19 00 02 54](https://user-images.githubusercontent.com/93971420/169074209-87afbe0e-6004-4a7e-9216-b1c02c4f189f.png)
 
 <br>
 
 ## 유저 프로세스 
 
+![스크린샷 2022-05-19 00 03 04](https://user-images.githubusercontent.com/93971420/169074324-6440f68b-11fc-492f-b016-b444f684cbbf.png)
 
 <br>
 
