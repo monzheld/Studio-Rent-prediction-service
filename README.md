@@ -17,6 +17,11 @@
 
 <br>
 
+## 발표 자료
+- [📘 Presentation](https://drive.google.com/file/d/1AgRIEBnhrSxLPl4K8Di_iomFTkvz9yHW/view?usp=sharing)
+
+<br>
+
 ## 서비스 소개 
 
 - 서비스명: **Oh 월세**
